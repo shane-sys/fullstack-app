@@ -1,0 +1,16 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+
+}
+img{
+  background-image: url("img/peaky-blinders");
+  height: 500px;
+  width: 80%;
+}
+
+#id{
+  background-image: url("img/peaky-blinders2");
+  height: 500px;
+  width: 101%;
+}
